@@ -1,5 +1,5 @@
 ## MGLNN
-The official implementation of paper "[MGLNN: Semi-supervised learning via Multiple Graph Cooperative Learning Neural Networks](https://doi.org/10.1016/j.neunet.2022.05.024)" which is published by Neural Networks 2022.
+The official implementation of paper "[MGLNN: Semi-supervised learning via Multiple Graph Cooperative Learning Neural Networks](https://doi.org/10.1016/j.neunet.2022.05.024)" published in Neural Networks 2022.
 
 ## Requirements
 * Python = 3.7
