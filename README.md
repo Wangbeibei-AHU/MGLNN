@@ -7,7 +7,7 @@ The official implementation of paper "[MGLNN: Semi-supervised learning via Multi
 * Cuda = 10.1
 
 ## Introduction
-In this repo, we provide MGLNN's code with the Caltech101_7, Reuters and WebKB datasets as example, where the code is based on [Graph Structure Learning for Robust Graph Neural Networks](https://dl.acm.org/doi/abs/10.1145/3394486.3403049) (ProGNN, KDD 2020).
+In this repo, we provide MGLNN's code with the Caltech101_7, Reuters and WebKB datasets as example, where the code is implemented based on [Graph Structure Learning for Robust Graph Neural Networks](https://dl.acm.org/doi/abs/10.1145/3394486.3403049) (ProGNN, KDD 2020).
 
 ## Examples
 * To run the training and evaluation, one can use the scripts in run.sh: 
