@@ -10,13 +10,13 @@ The official implementation of paper "MGLNN: Semi-supervised learning via Multip
 In this repo, we provide MGLNN's code with the Caltech101_7, Reuters and WebKB datasets as example. The graph convolution model is provided by Thomas N. Kipf, Max Welling, Semi-Supervised Classification with Graph Convolutional Networks (ICLR 2017).
 
 ## Examples
-* To run the training and evaluation, one can use the scripts in 'run.sh': 
+* To run the training and evaluation, one can use the scripts in run.sh: 
 ```
 sh run.sh
 ```
 
 ## Cite
-Please cite our paper if you use this code in your own work:
+Please cite our [paper](https://doi.org/10.1016/j.neunet.2022.05.024) if you use this code in your own work:
 
 ```
 @article{jiang2022mglnn,
